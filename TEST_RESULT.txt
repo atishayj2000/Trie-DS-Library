@@ -1,0 +1,2 @@
+TEST PASSED
+List of words converted to serial form and back to list of words without any loss
